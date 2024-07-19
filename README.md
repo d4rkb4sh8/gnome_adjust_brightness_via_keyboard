@@ -5,4 +5,5 @@ You can simply copy and paste the text within the adjust_bricghtness.sh and add 
 OR
 1. download the adjust_brightness.sh script
 2. chmod +x adjust_brightness.sh
-3. ENJOY adjusting your bhrightness form your keyboard. peace h4ck3r5
+3. ./adjust_brightness.sh
+4. ENJOY adjusting your bhrightness form your keyboard. peace h4ck3r5
